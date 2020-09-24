@@ -1,0 +1,2 @@
+# Diary
+write diary everyday
